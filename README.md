@@ -16,7 +16,7 @@ In this paper, a novel Between/Within View Information Completing for Tensorial 
 
 ## Data Preparation
 + We have provided ORL dataset with 55\% missing ratio for instance, and the `ORL_fold_example.mat file` is provided to data preparation.
-+ The natural incomplete 3sources can be obtained in `.\dataset`.
++ Due to the file size limitations, the natural incomplete 3sources can be obtained in `dataset.zip`, you can download and use it.
   
 ## Usage
 + Conduct clustering
